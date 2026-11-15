@@ -1,0 +1,2 @@
+[build]
+rustdoc = "/usr/local/cargo/bin/rustdoc"
